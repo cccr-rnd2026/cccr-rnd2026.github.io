@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cccr-rnd2026.github.io/blog</id>
-    <title>My Site Blog</title>
+    <title>AI워크로드 특성을 고려하여 GPU 클러스터 자원의 효율적 운영·관리를 제공하는 GPU 오케스트레이션 기술 개발 Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cccr-rnd2026.github.io/blog"/>
-    <subtitle>My Site Blog</subtitle>
+    <subtitle>AI워크로드 특성을 고려하여 GPU 클러스터 자원의 효율적 운영·관리를 제공하는 GPU 오케스트레이션 기술 개발 Blog</subtitle>
     <icon>https://cccr-rnd2026.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
