@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cccr-rnd2026.github.io/gpu.github.io/blog</id>
-    <title>클라우드 네이티브기반 GPU 오케스트레이션: AI Factory Blog</title>
+    <title>클라우드 네이티브기반 GPU 오케스트레이션: OpenAI-Factory SW Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cccr-rnd2026.github.io/gpu.github.io/blog"/>
-    <subtitle>클라우드 네이티브기반 GPU 오케스트레이션: AI Factory Blog</subtitle>
+    <subtitle>클라우드 네이티브기반 GPU 오케스트레이션: OpenAI-Factory SW Blog</subtitle>
     <icon>https://cccr-rnd2026.github.io/gpu.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
